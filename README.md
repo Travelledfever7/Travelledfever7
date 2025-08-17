@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Abdalrahman-Alhamod/" align="center" ><img align="center"  alt="" src="https://visitor-badge.laobi.icu/badge?page_id=Abdalrahman-Alhamod.Abdalrahman-Alhamod"></a>
+  <a href="https://github.com/Travelledfever7/" align="center" ><img align="center"  alt="" src="https://visitor-badge.laobi.icu/badge?page_id=Travelledfever7.Travelledfever7"></a>
 </p>
 
 ---
